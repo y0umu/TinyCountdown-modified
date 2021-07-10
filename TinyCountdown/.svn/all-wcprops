@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/32/trunk/windowsTools/vc/TinyCountdown/TinyCountdown
+END
+TinyCountdown.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/31/trunk/windowsTools/vc/TinyCountdown/TinyCountdown/TinyCountdown.vcproj
+END
+TinyCountdown.rc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/32/trunk/windowsTools/vc/TinyCountdown/TinyCountdown/TinyCountdown.rc
+END
+TinyCountdown.ico
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/27/trunk/windowsTools/vc/TinyCountdown/TinyCountdown/TinyCountdown.ico
+END
+Countdown.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/32/trunk/windowsTools/vc/TinyCountdown/TinyCountdown/Countdown.cpp
+END
+MessageProcess.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/32/trunk/windowsTools/vc/TinyCountdown/TinyCountdown/MessageProcess.cpp
+END
+TinyCountdown.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/32/trunk/windowsTools/vc/TinyCountdown/TinyCountdown/TinyCountdown.cpp
+END
+Countdown.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/32/trunk/windowsTools/vc/TinyCountdown/TinyCountdown/Countdown.h
+END
+TimeArtist.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/26/trunk/windowsTools/vc/TinyCountdown/TinyCountdown/TimeArtist.cpp
+END
+MessageProcess.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/30/trunk/windowsTools/vc/TinyCountdown/TinyCountdown/MessageProcess.h
+END
+stdafx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/26/trunk/windowsTools/vc/TinyCountdown/TinyCountdown/stdafx.cpp
+END
+TinyCountdown.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/27/trunk/windowsTools/vc/TinyCountdown/TinyCountdown/TinyCountdown.h
+END
+TimeArtist.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/26/trunk/windowsTools/vc/TinyCountdown/TinyCountdown/TimeArtist.h
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/27/trunk/windowsTools/vc/TinyCountdown/TinyCountdown/resource.h
+END
+stdafx.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/26/trunk/windowsTools/vc/TinyCountdown/TinyCountdown/stdafx.h
+END
+small.ico
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/27/trunk/windowsTools/vc/TinyCountdown/TinyCountdown/small.ico
+END
